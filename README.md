@@ -19,8 +19,8 @@ We are the tech enthusiasts and innovators of Copperbelt University, passionate 
 Join us on our journey to make a meaningful impact through technology. Let's code for a brighter future!
 
 📞 Contact:
-📧 Email: [ictazcbuchapter@gmail.com]
-🌐 Website: [www.ictazcnuchapter.com]
+📧 Email: ictazcbuchapter@gmail.com
+🌐 Website: www.ictazcnuchapter.com
 
 
 
